@@ -1,5 +1,12 @@
-## BASE DE DATOS 2
-# PROYECTO FINAL 
+# BASE DE DATOS 2
+## PROYECTO FINAL 
+<p>Este proyecto, debe ser realizado debido a la necesidad de aprobar lamateria</p>
+
+## METODOLOGIA USADA: SCRUM
+<!-- -->
+### ¿QUE ES SCRUM?
+Aqui descubriras que es SCRUM
+
 You can use the [editor on GitHub](https://github.com/MiguelMiravalle/Proyecto-Oracle/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
