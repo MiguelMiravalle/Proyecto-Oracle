@@ -1,6 +1,6 @@
 # <center>BASE DE DATOS 2</center>
-## PROYECTO FINAL 
-<p>Este proyecto, debe ser realizado debido a la necesidad de aprobar la materia</p>
+## <center>PROYECTO FINAL</center> 
+<center><p>Este proyecto, debe ser realizado debido a la necesidad de aprobar la materia</p>
 
 ![Imagen1](http://www.cbronline.com/wp-content/uploads/2016/06/Java.png)
 
@@ -8,7 +8,7 @@
 <!-- -->
 ### ¿QUE ES SCRUM?
 Aqui descubriras que es SCRUM
-
+</center>
 <center>You can use the [editor on GitHub](https://github.com/MiguelMiravalle/Proyecto-Oracle/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
