@@ -1,6 +1,6 @@
-# BASE DE DATOS 2
+<center># BASE DE DATOS 2
 ## PROYECTO FINAL 
-<p>Este proyecto, debe ser realizado debido a la necesidad de aprobar lamateria</p>
+<p>Este proyecto, debe ser realizado debido a la necesidad de aprobar lamateria</p></center>
 
 ## METODOLOGIA USADA: SCRUM
 <!-- -->
