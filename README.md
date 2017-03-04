@@ -1,4 +1,4 @@
-# BASE DE DATOS 2
+# <center>BASE DE DATOS 2</center>
 ## PROYECTO FINAL 
 <p>Este proyecto, debe ser realizado debido a la necesidad de aprobar la materia</p>
 
