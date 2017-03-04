@@ -1,9 +1,10 @@
+<center>
 # BASE DE DATOS 2
 ## PROYECTO FINAL 
 <p>Este proyecto, debe ser realizado debido a la necesidad de aprobar la materia</p>
 
 ![Imagen1](http://www.cbronline.com/wp-content/uploads/2016/06/Java.png)
-
+</center>
 ## METODOLOGIA USADA: SCRUM
 <!-- -->
 ### ¿QUE ES SCRUM?
