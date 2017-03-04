@@ -4,6 +4,8 @@
 
 ![Imagen1](http://www.cbronline.com/wp-content/uploads/2016/06/Java.png)
 
+ESQUEMAS DE AUTENTICACION TIPOS Y CUANTOS HAY 
+
 ## METODOLOGIA USADA: SCRUM
 <!-- -->
 ### ¿QUE ES SCRUM?
